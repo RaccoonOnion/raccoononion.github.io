@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I have been fortune to be a teaching assistant for the following courses
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Georgia Tech
+- Internet Systems & Services (Summer 2024, Spring 2025)
+- Big Data Systems (Fall 2024)
+- **Natural Language Processing** (Fall 2025)
 
-Organize your courses by years, topics, or universities, however you like!
+#### Southern University of Science and Technology
+- Computer Architecture (Spring 2023)
